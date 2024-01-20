@@ -1,5 +1,5 @@
 
-.ipynb_checkpoints/main-checkpoint.ipynb
+.ipynb_checkpoints/
 *.gpkg
 *.csv
 *.geojson
